@@ -27,3 +27,5 @@ tests/reports
 *.rpm
 *.tgz
 vendor/
+
+.DS_Store
